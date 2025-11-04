@@ -38,7 +38,7 @@ The simulation and experiments are implemented in **Python** using the following
 ## 📊 Experimental Results
 
 The trained agents successfully learned to reach **Nash-equilibrium-like outcomes**, improving both:
-- **Average cumulative rewards**, and  
+- **Average cumulative rewards**
 - **Agreement rates** between agents across episodes.  
 
 The results demonstrate the effectiveness of MARL in modeling real-world negotiation and conflict-resolution scenarios.
