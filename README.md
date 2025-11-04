@@ -1,15 +1,14 @@
-# Application of Multi-Agent Reinforcement Learning to Two-Player Dynamic Games
+# Application of Multi-Agent Reinforcement Learning to Dynamic Two-Player Games
 
 **Author:** Ashot Gimishyan  
-**Institution:** Moscow Institute of Physics and Technology (MIPT)  
+**University:** Moscow Institute of Physics and Technology (MIPT)  
 **Year:** 2023  
-**Type:** Demo Version  
 
 ---
 
 ## 📘 Overview
 
-This project presents a study on the application of **Multi-Agent Reinforcement Learning (MARL)** to dynamic two-player games.  
+This project presents a research on the application of **Multi-Agent Reinforcement Learning (MARL)** to dynamic two-player games.  
 A **modified bargaining problem** is introduced as an experimental framework that simulates negotiation dynamics between two agents competing for a shared resource.
 
 The main goal is to explore how AI agents can **learn fair and efficient strategies** through interaction, adaptation, and strategic reasoning using modern MARL algorithms.
@@ -59,8 +58,8 @@ The results demonstrate the effectiveness of MARL in modeling real-world negotia
 
 If you reference or build upon this work, please cite:
 
-> Ashot Gimishyan. *Application of Multi-Agent Reinforcement Learning to Two-Player Dynamic Games.*  
-> MIPT, 2023. Demo Version.
+> Ashot Gimishyan. *Application of Multi-Agent Reinforcement Learning to Dynamic Two-Player Games.*  
+> MIPT, 2023.
 
 ---
 
